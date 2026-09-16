@@ -1,0 +1,4 @@
+interface:
+  display_name: "Compare Baseline"
+  short_description: "Compare OAK publication baselines"
+  default_prompt: "Use $compare-baseline to compare two OAK publication baselines by GUID and version."
