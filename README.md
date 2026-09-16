@@ -11,7 +11,7 @@ titles, GUIDs, and per-baseline versions, with mismatches sorted first.
 
 ```
 compare-baseline/
-├── SKILL.md                  # Skill definition Claude Code loads
+├── SKILL.md                  # Skill definition 
 ├── agents/
 │   └── openai.yaml           # Display name, description, default prompt
 └── scripts/
@@ -20,9 +20,9 @@ compare-baseline/
 
 ## Usage
 
-### Via Claude Code
+### Via Codex/Claude Code
 
-Invoke the skill and let Claude drive the script for you:
+Invoke the skill and let Codex/Claude drive the script for you:
 
 ```
 Use $compare-baseline to compare two OAK publication baselines by GUID and version.
@@ -30,7 +30,7 @@ Use $compare-baseline to compare two OAK publication baselines by GUID and versi
 
 ### Directly
 
-Run the script on its own — it works without Claude Code too.
+Run the script on its own.
 
 Interactive:
 
